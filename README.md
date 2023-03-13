@@ -1,11 +1,11 @@
 Employee payment schedule with DataTables
 ====
-A sample project that demonstrates create a small command-line utility to help a fictional company determine the dates they need to pay salaries to their sales department.
+A sample project that demonstrates a small command-line utility to help a fictional company determine the dates they need to pay salaries to their sales department.
 This company is handling their sales payroll in the following way:
-• Sales staff get a regular monthly fixed base salary and a monthly bonus
-• The base salaries are paid on the last day of the month, unless that day is a Saturday or a
+- Sales staff get a regular monthly fixed base salary and a monthly bonus
+- The base salaries are paid on the last day of the month, unless that day is a Saturday or a
 Sunday. In that case, the base salary is paid on the last Friday of the same month
-• On the 15th of every month bonuses are paid for the previous month, unless that day is a
+- On the 15th of every month bonuses are paid for the previous month, unless that day is a
 Saturday or Sunday. In that case, the bonus is paid the first Wednesday after the 15th
 
 Features:
